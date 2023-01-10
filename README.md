@@ -41,7 +41,7 @@ git clone <repo URL>
 >This avoids the errors and broken code/features that would happen if you were both making changes to the same code at the same time.
 
 >Create a new local branch with:
-...shell
+```shell
 git branch <branch-name>
 ```
 
