@@ -1,4 +1,4 @@
-# GIT-Cheats
+# GIT-Cheatsheet
 >list of most important git commands &amp; common Git commands to consider memorizing
 
 # 1. Init: Create a new repository on your local machine 
